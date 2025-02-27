@@ -12,9 +12,11 @@ from sentence_transformers import util
 from together import Together
 from fpdf import FPDF  # For generating PDFs
 import os
-nltk.download('punkt')
-nltk.download('punkt_tab')
 
+# Download required NLTK data files
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('averaged_perceptron_tagger')
 # Configuration
 CODES = {
     "Tunisia": "TN.txt",
