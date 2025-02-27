@@ -17,6 +17,7 @@ import os
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
+nltk.download('punkt_tab')
 # Configuration
 CODES = {
     "Tunisia": "TN.txt",
