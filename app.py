@@ -14,9 +14,15 @@ from fpdf import FPDF  # For generating PDFs
 import os
 
 # Download required NLTK data files
+import streamlit as st
+import nltk
+
+# Download required NLTK data files
+st.write("Downloading NLTK data files...")
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('averaged_perceptron_tagger')
+st.write("NLTK data files downloaded successfully!")
 # Configuration
 CODES = {
     "Tunisia": "TN.txt",
