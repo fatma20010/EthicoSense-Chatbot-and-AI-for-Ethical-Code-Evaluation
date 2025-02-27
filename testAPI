@@ -1,0 +1,19 @@
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+from together import Together
+TOGETHER_API_KEY = os.getenv("API_KEY")  # Replace with your actual API key
+
+client = Together(api_key=TOGETHER_API_KEY)
+
+response = client.chat.completions.create(
+    model="meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-128K",
+    messages=[
+        {"role": "system", "content": "You are a helpful assistant"},
+        {"role": "user", "content": "Hello"},
+    ],
+    stream=False
+)
+
+print(response.choices[0].message.content)

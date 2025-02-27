@@ -1,0 +1,241 @@
+Le code d'éthique
+Les inscrits doivent se conduire avec intégrité, de manière honorable et éthique. Les inscrits doivent
+défendre les valeurs de vérité, d'honnêteté et de fiabilité, et ils doivent protéger la vie et le bien-être
+humains ainsi que l'environnement. Conformément à ces principes fondamentaux, les inscrits
+doivent:
+1. Considérer comme primordiaux la sécurité, la santé et le bien-être du public ainsi que la protection
+de l'environnement et promouvoir la santé et la sécurité sur le lieu de travail.
+2. Pratiquer le génie uniquement dans les domaines de leur compétence, avec soin, diligence et avec
+une conviction honnête.
+3. Agir en conformité avec la législation, les règlements et les normes professionnelles applicables.
+4. Fournir des déclarations professionnelles qui distinguent entre les faits, les hypothèses et les
+opinions.
+5. Agir en tant qu'agents fidèles de leurs clients ou employeurs, maintenir la confidentialité et
+divulguer les conflits d'intérêts sans délai et d'une manière juste et équitable pour toutes les parties
+concernées.
+Engineers Canada | Ingénieurs Canada 4
+6. Maintenir la compétence dans les spécialisations pertinentes, y compris une sensibilisation aux
+avancées dans la pratique réglementée et la science pertinente, pour développer continuellement
+leurs compétences et guider efficacement ceux qu'ils supervisent.
+7. Se conduire avec intégrité, équité, courtoisie et bonne foi envers les clients, les collègues et les
+autres ; être coopératif, collégial et reconnaître les contributions des autres ; donner et accepter des
+critiques professionnelles honnêtes et justes.
+8. Assumer la responsabilité uniquement des travaux qu'ils ont préparés ou qui ont été préparés sous
+leur supervision et contrôle directs, et pour lesquels ils peuvent valider les résultats utilisés dans leur
+développement.
+9. Rapporter clairement aux employeurs, clients et, dans les cas affectant la sécurité publique, aux
+parties prenantes appropriées, les conséquences possibles si les décisions, jugements ou
+recommandations d'ingénierie sont annulés ou ignorés.
+10. Signaler à leur organisme de réglementation et/ou à d'autres agences appropriées toute décision
+ou pratique d'ingénierie illégale, dangereuse ou contraire à l'éthique par des inscrits ou d'autres
+personnes.
+11. Surveiller et rapporter les conséquences des actions tant des projets que sur les projets, y
+compris les risques associés à l'environnement.
+12. Promouvoir le traitement équitable et digne des personnes conformément à la législation sur les
+droits de la personne.
+13. Agir de manière à améliorer la connaissance et l'appréciation du public envers le génie.
+signature et le scellage de documents sont appropriés chaque fois que des principes d'ingénierie ont
+été utilisés et que le bien-être public peut être à risque.
+Que les ingénieurs supervisent le travail ou le fassent directement eux-mêmes, ils sont obligés d'agir
+de manière éthique et de prendre la responsabilité du travail. Lors de la supervision d'autres
+personnes, un ingénieur devrait fixer des limites raisonnables au nombre de supervisés pour assurer
+un degré adéquat de surveillance. En raison des obligations éthiques de l'ingénieur, un rôle
+symbolique dans la supervision est inapproprié car il va à l'encontre du concept de prise de
+responsabilité professionnelle. Par exemple, un titre tel que "gestionnaire d'ingénierie" ou "directeur
+d'ingénierie" dans une grande entreprise, un service public ou une agence ou un département
+gouvernemental n'est éthique que si l'ingénieur peut rester adéquatement au courant des activités
+ou décisions d'ingénierie prises quotidiennement dans l'organisation.
+# Ligne directrice sur le code d'éthique
+Engineers Canada | Ingénieurs Canada 5
+**Principe 1 : Considérer comme primordiaux la sécurité, la santé et le bien-être du public ainsi que
+la protection de l'environnement et promouvoir la santé et la sécurité sur le lieu de travail.**
+Dans ce principe, "primordial" indique que toutes les autres exigences du Code sont subordonnées si
+la protection de la sécurité publique, de l'environnement ou d'autres intérêts publics substantiels
+sont impliqués.
+**Principe 2 : Pratiquer le génie uniquement dans les domaines de leur compétence, avec soin,
+diligence et avec une conviction honnête.**
+Les inscrits ne devraient offrir des services, conseiller ou entreprendre des missions d'ingénierie que
+dans les domaines de leur compétence en vertu de leur éducation, expérience et capacité. Cela inclut
+l'exercice de la prudence et la communication claire dans l'acceptation ou l'interprétation des
+missions, et dans l'établissement des résultats attendus. Cela inclut également la responsabilité
+d'obtenir les services d'un spécialiste ou d'un expert si nécessaire, ou, si les connaissances requises
+n'existent pas, de procéder uniquement avec une divulgation complète à toutes les parties
+impliquées. Par conséquent, cette exigence est plus qu'un simple devoir de diligence ; elle implique
+également l'honnêteté envers son client ou employeur et envers soi-même.
+**Principe 3 : Agir en conformité avec la législation, les règlements et les normes professionnelles
+applicables.**
+Il est de la responsabilité de l'inscrit de développer et de maintenir une connaissance de la législation,
+des règlements et des normes professionnelles, et d'agir conformément à ceux-ci. Ceci est important
+en tant que principe éthique, car le génie s'exerce dans le contexte de cadres juridiques et
+réglementaires qui évoluent au fil du temps en réponse aux besoins du public.
+**Principe 4 : Fournir des déclarations professionnelles qui distinguent entre les faits, les hypothèses
+et les opinions.**
+Les inscrits sont consultés pour leur expertise et leur jugement sur une large gamme de questions. En
+raison de cette dépendance envers les inscrits, il est très important qu'ils indiquent clairement s'ils
+fournissent une opinion, font des hypothèses ou énoncent des faits. Chacun est accompagné d'un
+niveau de certitude différent. Si ces types de commentaires ne sont pas clairement différenciés dans
+le travail d'un inscrit, des conséquences graves et des malentendus peuvent en résulter.
+Les inscrits doivent indiquer clairement s'ils fournissent une opinion, font des hypothèses ou
+énoncent des faits concernant l'ingénierie dans toutes les communications orales et écrites. Les faits
+énoncés dans les documents professionnels doivent être étayés par des données ou attribués à une
+source fiable. Les représentations des faits doivent être précises et doivent être fournies avec une
+attention et une diligence soigneuses pour assurer leur exactitude et leur fiabilité. Des analyses de
+sensibilité doivent être effectuées si les conclusions sont dérivées sur la base de paramètres
+supposés.
+Les inscrits doivent s'efforcer d'indiquer quelles hypothèses ils font en l'absence de données. S'ils
+sont appelés à fournir une opinion professionnelle, les inscrits doivent rester objectifs, équitables et
+indépendants, tout en s'appuyant sur les faits dans la plus grande mesure possible.
+*Des sections de cet exposé s'inspirent du "Guide to the code of ethics" d'EGBC. www.egbc.ca.
+Consulté le 8 juin 2023.
+# Ligne directrice sur le code d'éthique
+Engineers Canada | Ingénieurs Canada 6
+**Principe 5 : Agir en tant qu'agents fidèles de leurs clients ou employeurs, maintenir la
+confidentialité et divulguer les conflits d'intérêts sans délai et d'une manière juste et équitable pour
+toutes les parties concernées.**
+Les inscrits doivent agir en tant qu'agents fidèles ou fiduciaires de leurs clients et employeurs et agir
+avec objectivité, équité et justice envers toutes les parties. L'exception à cela est dans les cas où il
+existe un risque pour la sécurité publique et d'autres parties décrites dans le Principe 1. En ce qui
+concerne le traitement des informations confidentielles ou de la propriété intellectuelle, les concepts
+de "propriété" et de protection des droits du propriétaire sont appropriés. Les inscrits ne doivent pas
+révéler des faits, des données ou des informations obtenus dans le cadre professionnel sans le
+consentement préalable de leur propriétaire. Dans les cas où il existe un risque pour le public, l'inscrit
+devrait s'efforcer de faire en sorte que le client et/ou l'employeur redresse la situation de manière
+appropriée avant d'escalader les préoccupations au public ou aux organismes de réglementation, tout
+en respectant les droits à la confidentialité du client et de l'employeur et en protégeant leurs
+informations propriétaires.
+Les inscrits doivent éviter les situations de conflit d'intérêts avec les employeurs et les clients mais, si
+de tels conflits surgissent, il est de la responsabilité de l'inscrit de divulguer pleinement, sans délai, la
+nature du conflit aux parties potentiellement affectées. Dans les circonstances où la divulgation
+complète est insuffisante, ou pourrait être considérée comme insuffisante, pour protéger les intérêts
+de toutes les parties, l'inscrit doit se retirer totalement de la question et/ou utiliser des moyens
+extraordinaires, impliquant des parties indépendantes, si possible, pour surveiller la situation. Par
+exemple, il est inapproprié d'agir en tant qu'agent à la fois pour le fournisseur et le bénéficiaire de
+services professionnels. Si les intérêts d'un client et d'un employeur sont opposés, l'inscrit doit tenter
+de traiter équitablement les deux. Si le conflit d'intérêts se situe entre l'intention d'un employeur
+d'entreprise et une norme réglementaire, l'inscrit doit tenter de concilier la différence, et si cela
+échoue, il peut devenir nécessaire d'informer l'organisme de réglementation pour la sécurité
+publique.
+Être un agent fidèle ou fiduciaire comprend l'obligation d'engager, ou de conseiller d'engager, des
+experts ou des spécialistes lorsque de tels services sont jugés être dans le meilleur intérêt du client
+ou de l'employeur. Cela signifie également être précis, objectif et véridique dans la formulation de
+déclarations publiques au nom du client ou de l'employeur lorsque cela est requis, tout en respectant
+les droits à la confidentialité et aux informations propriétaires du client et de l'employeur. De plus,
+être un agent fidèle comprend ne pas utiliser les informations spécifiques privilégiées ou
+propriétaires, les pratiques commerciales ou les informations sur les processus d'un employeur ou
+d'un client précédent sans le consentement du propriétaire.
+**Principe 6 : Maintenir la compétence dans les spécialisations pertinentes, y compris une
+sensibilisation aux avancées dans la pratique réglementée et la science pertinente, pour développer
+continuellement leurs compétences et guider efficacement ceux qu'ils supervisent.**
+Les inscrits ont la responsabilité de rester informés des développements dans leurs domaines
+d'expertise tout au long de leur carrière. Cela comprend le maintien des connaissances actuelles et la
+compréhension des avancées scientifiques, des normes de meilleures pratiques et des changements
+réglementaires. Si le domaine d'orientation technique de l'inscrit change en raison de raisons
+techniques ou personnelles, l'inscrit a le devoir d'atteindre et de maintenir la compétence dans le
+nouveau domaine. En effet, suivre ce principe nécessite un engagement personnel envers le
+développement professionnel continu et l'éducation continue.
+†Des sections de cet exposé s'inspirent du "Guide to the code of ethics" d'EGBC. www.egbc.ca.
+Consulté le 8 juin 2023.
+# Ligne directrice sur le code d'éthique
+Engineers Canada | Ingénieurs Canada 7
+De plus, dans le cadre de la pratique de leur profession, les inscrits sont censés fournir des
+opportunités pour favoriser le développement professionnel de leurs subordonnés et collègues.
+**Principe 7 : Se conduire avec intégrité, équité, courtoisie et bonne foi envers les clients, les
+collègues et les autres ; être coopératif, collégial et reconnaître les contributions des autres ; donner
+et accepter des critiques professionnelles honnêtes et justes.**
+Lorsqu'ils sont appelés à examiner le travail d'un autre ingénieur, il existe une obligation d'informer
+(ou de faire tous les efforts pour informer) l'autre ingénieur, que l'ingénieur soit encore activement
+impliqué ou non. Dans cette situation, et dans toutes les circonstances, l'ingénieur doit donner une
+reconnaissance appropriée et donner et accepter des critiques honnêtes et justes sur des questions
+professionnelles, de manière à maintenir la dignité et le respect pour toutes les personnes
+impliquées.
+Lorsqu'ils travaillent sur des projets avec d'autres ingénieurs ou professionnels, un inscrit devrait
+s'efforcer de coopérer à l'achèvement rapide et complet du travail, et d'agir de manière à montrer le
+professionnalisme et la collégialité à toutes les étapes du projet (par exemple, en fournissant les
+informations et les matériaux nécessaires tels que les dessins et la documentation de manière
+directe, en signant et en clôturant les projets de manière professionnelle, en représentant
+ouvertement et précisément les informations au besoin, etc.)
+Ce principe éthique s'étend aux interactions avec le public, la profession et ses pairs. Cela exige
+l'honnêteté envers soi-même et complète le Principe 4.
+**Principe 8 : Assumer la responsabilité uniquement des travaux qu'ils ont préparés ou qui ont été
+préparés sous leur supervision et contrôle directs, et pour lesquels ils peuvent valider les résultats
+utilisés dans leur développement.**
+Les ingénieurs assument la responsabilité à la fois de leur propre travail et du travail de ceux qu'ils
+supervisent. Bien que l'avènement de technologies révolutionnaires (par exemple, celles impactées
+par l'intelligence artificielle et la robotisation) ait le potentiel de rationaliser considérablement le
+travail d'ingénierie, dans l'utilisation de celles-ci, un inscrit est toujours ultimement responsable des
+résultats, et doit donc considérer et gérer de manière appropriée les implications et les impacts
+potentiels. Si le travail d'un outil qui a des applications potentielles dans le travail d'ingénierie ne peut
+pas être vérifié et validé, de manière continue si approprié (c'est-à-dire en considérant que les outils
+et les technologies évoluent), alors cela met le public à un risque significatif.
+**Principe 9 : Rapporter clairement aux employeurs, clients et, dans les cas affectant la sécurité
+publique, aux parties prenantes appropriées, les conséquences possibles si les décisions, jugements
+ou recommandations d'ingénierie sont annulés ou ignorés.**
+Les inscrits ont le devoir de signaler les risques des travaux d'ingénierie à leurs employeurs et clients,
+et dans les cas où l'annulation d'une décision d'ingénierie peut causer des risques pour le public, les
+inscrits peuvent être tenus de faire rapport plus largement aux parties prenantes et, en fin de
+compte, aux organismes de réglementation. L'action initiale est généralement de discuter du
+problème avec le superviseur ou l'employeur. Si le superviseur ou l'employeur ne répond pas
+adéquatement à la préoccupation de l'inscrit, alors, dans une situation de consultation, le client doit
+être avisé ; dans une usine de transformation manufacturière ou une agence gouvernementale,
+l'agent le plus haut placé doit être informé. Si ces tentatives ne parviennent pas à rectifier la
+situation, l'inscrit doit présenter les préoccupations à l'organisme de réglementation, même au risque
+de perdre son emploi.
+# Ligne directrice sur le code d'éthique
+Engineers Canada | Ingénieurs Canada 8
+**Principe 10 : Signaler à leur organisme de réglementation et/ou à d'autres agences appropriées
+toute décision ou pratique d'ingénierie illégale, dangereuse ou contraire à l'éthique par des inscrits
+ou d'autres personnes.**
+Agissant conformément au Code, et ayant tenté de redresser toute situation au sein de leur
+organisation, les inscrits sont obligés de signaler à leur organisme de réglementation ou à d'autres
+agences appropriées toute décision ou pratique d'ingénierie illégale ou contraire à l'éthique par des
+inscrits ou d'autres personnes. Il faut veiller à ne pas conclure d'arrangements juridiques qui
+compromettent cette obligation.
+Suivant la hiérarchie de signalement décrite dans le Principe 9, l'inscrit doit signaler les activités
+d'ingénierie contraires à l'éthique entreprises par d'autres inscrits ou par des non-inscrits. Cela
+s'étend, par exemple, aux situations dans lesquelles les hauts responsables d'une entreprise prennent
+des décisions "exécutives" qui modifient clairement et substantiellement les aspects d'ingénierie du
+travail et pourraient potentiellement poser un risque pour la sauvegarde du bien-être public ou de
+l'environnement.
+**Principe 11 : Surveiller et rapporter les conséquences des actions tant des projets que sur les
+projets, y compris les risques associés à l'environnement.**
+En raison des avancées rapides de la technologie et de l'impact croissant du travail d'ingénierie sur
+l'environnement, les inscrits ont l'obligation d'être attentifs à l'effet que leurs décisions auront sur
+l'environnement et le bien-être de la société, et de signaler toute préoccupation de cette nature de la
+même manière que décrite dans le Principe 9. De plus, avec l'avancée rapide de la technologie et les
+impacts sociétaux possibles sur de grandes populations de personnes, les inscrits doivent s'efforcer
+de favoriser la compréhension du public des questions techniques plus que jamais auparavant.
+Les inscrits devraient s'efforcer de comprendre et d'aborder à la fois les effets environnementaux
+immédiats et à long terme de leur travail. Cela englobe les impacts tangibles qui se produisent
+pendant l'exécution du travail et les considérations futures concernant les dommages potentiels au
+public si le travail échoue en raison de facteurs liés au changement climatique. Cela englobe la
+nécessité de considérer les impacts que le changement climatique peut avoir sur le travail lui-même.
+Ce principe s'aligne sur le Principe 6, qui souligne l'importance de maintenir la compétence et de
+rester informé des avancées dans les domaines scientifiques pertinents pour le travail.
+**Principe 12 : Promouvoir le traitement équitable et digne des personnes conformément à la
+législation sur les droits de la personne.**
+Les inscrits doivent traiter toutes les personnes équitablement et avec dignité. Les inscrits doivent
+également respecter l'évolution de la législation sur les droits de la personne et les motifs de
+discrimination interdits tels que la race, l'origine nationale ou ethnique, la couleur, la religion, l'âge, le
+sexe, l'orientation sexuelle, l'identification de genre, l'état matrimonial, la situation familiale, le
+handicap et la condamnation pour une infraction pour laquelle un pardon a été accordé ou à l'égard
+de laquelle une suspension du casier a été ordonnée ou tout autre motif.
+Cette interprétation englobe le traitement équitable et digne des peuples autochtones, y compris agir
+avec respect lors de l'examen des utilisations traditionnelles et culturelles des terres.
+**Principe 13 : Agir de manière à améliorer la connaissance et l'appréciation du public envers le
+génie.**
+L'honnêteté, l'intégrité, la compétence, le dévouement au service et le dévouement à l'amélioration
+générale de la qualité de vie sont les pierres angulaires de la responsabilité professionnelle. Dans ce
+cadre, les inscrits doivent être objectifs et véridiques et inclure toutes les informations pertinentes et
+pertinentes dans les rapports professionnels, les déclarations et les témoignages. Ils doivent
+représenter avec précision et objectivité leurs clients, employeurs, associés et eux-mêmes
+conformément à leurs qualifications académiques, d'expérience et professionnelles. Les inscrits sont
+censés respecter la loi dans leur conduite personnelle et ne doivent pas s'engager dans des actes qui
+compromettent leur réputation professionnelle ou qui discréditent leur profession (par exemple, des
+publications inappropriées sur les médias sociaux). Ce principe est plus que "ne pas déformer" car il
+implique également la divulgation de toutes les informations et questions pertinentes, en particulier
+lorsqu'on agit en tant que conseiller ou témoin expert.
+De même, l'équité, l'honnêteté, l'exactitude dans la publicité et la conduite des affaires sont
+attendues. Les inscrits sont censés respecter la loi dans leur conduite personnelle et ne doivent pas
+s'engager dans des actes qui compromettent leur réputation professionnelle ou qui discréditent leur
+profession. Sauf dans les cas pro bono, les inscrits ne devraient pas sous-facturer leurs services, car
+cela compromet la réputation de la valeur de la profession.

@@ -1,0 +1,1000 @@
+{
+   "intents":[
+      {
+         "tag":"greeting",
+         "patterns":[
+            "Bonjour",
+            "Salut",
+            "Coucou",
+            "Hello",
+            "Bonjour, comment ça va ?"
+         ],
+         "responses":[
+            "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+            "Salut ! Que puis-je faire pour vous ?",
+            "Coucou ! En quoi puis-je vous assister ?"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"goodbye",
+         "patterns":[
+            "Au revoir",
+            "À plus tard",
+            "Bye",
+            "Ciao",
+            "Je m'en vais"
+         ],
+         "responses":[
+            "Au revoir ! À bientôt.",
+            "À plus tard ! N'hésitez pas à revenir si vous avez des questions.",
+            "Bye ! Passez une excellente journée."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"thanks",
+         "patterns":[
+            "Merci",
+            "Merci beaucoup",
+            "Je vous remercie",
+            "Super, merci !"
+         ],
+         "responses":[
+            "Je vous en prie !",
+            "Avec plaisir !",
+            "Pas de problème, heureux de vous aider."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ethics_definition",
+         "patterns":[
+            "Qu'est-ce que l'éthique de l'ingénieur ?",
+            "Définis l'éthique de l'ingénieur",
+            "C'est quoi l'éthique en ingénierie ?"
+         ],
+         "responses":[
+            "L'éthique de l'ingénieur concerne les principes moraux et les responsabilités que les ingénieurs doivent respecter dans leur pratique professionnelle.",
+            "C'est un ensemble de règles et de valeurs qui guident les ingénieurs pour agir de manière responsable et respectueuse envers la société et l'environnement."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"responsibility",
+         "patterns":[
+            "Quelles sont les responsabilités d'un ingénieur ?",
+            "Quels sont les devoirs d'un ingénieur ?",
+            "Que doit faire un ingénieur ?"
+         ],
+         "responses":[
+            "Un ingénieur doit concevoir des solutions sûres, durables et respectueuses de l'environnement, tout en tenant compte des impacts sociaux et économiques.",
+            "Les responsabilités incluent la sécurité publique, la protection de l'environnement, et le respect des normes techniques et éthiques."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"conflict_of_interest",
+         "patterns":[
+            "Comment gérer un conflit d'intérêts en ingénierie ?",
+            "Que faire en cas de conflit d'intérêts ?",
+            "Conflit d'intérêts dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est essentiel de déclarer tout conflit d'intérêts et de prendre des décisions impartiales pour protéger l'intérêt public.",
+            "La transparence et l'honnêteté sont cruciales pour résoudre les conflits d'intérêts de manière éthique."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"sustainability",
+         "patterns":[
+            "Quel est le rôle de l'ingénieur dans le développement durable ?",
+            "Comment les ingénieurs contribuent-ils à la durabilité ?",
+            "Ingénierie et développement durable"
+         ],
+         "responses":[
+            "Les ingénieurs jouent un rôle clé en concevant des technologies et des infrastructures qui minimisent l'impact environnemental et favorisent la durabilité.",
+            "Ils doivent intégrer des pratiques écologiques dans leurs projets pour assurer un avenir durable."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"professional_conduct",
+         "patterns":[
+            "Quelles sont les règles de conduite professionnelle pour un ingénieur ?",
+            "Comment un ingénieur doit-il se comporter ?",
+            "Conduite professionnelle en ingénierie"
+         ],
+         "responses":[
+            "Un ingénieur doit respecter les normes techniques, être honnête, transparent et toujours agir dans l'intérêt public.",
+            "La conduite professionnelle inclut l'intégrité, la compétence et le respect des lois et règlements."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ethical_dilemma",
+         "patterns":[
+            "Que faire face à un dilemme éthique en ingénierie ?",
+            "Comment résoudre un dilemme éthique ?",
+            "Dilemme éthique dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est important de consulter les codes de déontologie, de discuter avec des collègues et de privilégier l'intérêt public dans la prise de décision.",
+            "En cas de doute, il faut se référer aux principes éthiques fondamentaux et chercher des conseils auprès d'experts."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"environmental_impact",
+         "patterns":[
+            "Comment les ingénieurs peuvent-ils réduire l'impact environnemental ?",
+            "Quelles pratiques pour minimiser l'impact environnemental ?",
+            "Ingénierie et environnement"
+         ],
+         "responses":[
+            "Les ingénieurs peuvent adopter des méthodes de conception écologiques, utiliser des matériaux durables et promouvoir les énergies renouvelables.",
+            "La réduction des déchets, l'efficacité énergétique et l'innovation verte sont des clés pour minimiser l'impact environnemental."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"public_safety",
+         "patterns":[
+            "Pourquoi la sécurité publique est-elle importante en ingénierie ?",
+            "Quel est le rôle de l'ingénieur dans la sécurité publique ?",
+            "Sécurité publique et ingénierie"
+         ],
+         "responses":[
+            "La sécurité publique est une priorité absolue pour les ingénieurs, car leurs décisions peuvent avoir un impact direct sur la vie des gens.",
+            "Les ingénieurs doivent s'assurer que leurs conceptions et constructions respectent les normes de sécurité pour protéger les utilisateurs."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"innovation_ethics",
+         "patterns":[
+            "Comment concilier innovation et éthique en ingénierie ?",
+            "Innovation et éthique dans l'ingénierie",
+            "Éthique de l'innovation"
+         ],
+         "responses":[
+            "L'innovation doit toujours être guidée par des principes éthiques, en tenant compte des impacts sociaux, environnementaux et économiques.",
+            "Les ingénieurs doivent innover de manière responsable, en veillant à ce que les nouvelles technologies profitent à la société sans causer de préjudice."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"code_of_ethics",
+         "patterns":[
+            "Qu'est-ce qu'un code de déontologie en ingénierie ?",
+            "Code de déontologie des ingénieurs",
+            "Quelles sont les règles du code de déontologie ?"
+         ],
+         "responses":[
+            "Un code de déontologie est un ensemble de règles qui guide les ingénieurs dans leur pratique professionnelle, en mettant l'accent sur l'intégrité, la responsabilité et le respect.",
+            "Il définit les normes éthiques que les ingénieurs doivent suivre pour assurer la confiance du public et la qualité de leur travail."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"whistleblowing",
+         "patterns":[
+            "Que faire si je vois une pratique contraire à l'éthique ?",
+            "Comment signaler une mauvaise pratique en ingénierie ?",
+            "Whistleblowing en ingénierie"
+         ],
+         "responses":[
+            "Il est important de signaler toute pratique contraire à l'éthique aux autorités compétentes ou à un supérieur hiérarchique, tout en protégeant votre anonymat si nécessaire.",
+            "Le whistleblowing est un acte courageux qui protège l'intérêt public et maintient les standards éthiques de la profession."
+         ],
+         "context":[
+            ""
+         ]
+      }
+  ,
+      
+      
+      
+      
+      {
+         "tag":"ethics_definition",
+         "patterns":[
+            "Qu'est-ce que l'éthique de l'ingénieur ?",
+            "Définis l'éthique de l'ingénieur",
+            "C'est quoi l'éthique en ingénierie ?"
+         ],
+         "responses":[
+            "L'éthique de l'ingénieur concerne les principes moraux et les responsabilités que les ingénieurs doivent respecter dans leur pratique professionnelle.",
+            "C'est un ensemble de règles et de valeurs qui guident les ingénieurs pour agir de manière responsable et respectueuse envers la société et l'environnement."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"responsibility",
+         "patterns":[
+            "Quelles sont les responsabilités d'un ingénieur ?",
+            "Quels sont les devoirs d'un ingénieur ?",
+            "Que doit faire un ingénieur ?"
+         ],
+         "responses":[
+            "Un ingénieur doit concevoir des solutions sûres, durables et respectueuses de l'environnement, tout en tenant compte des impacts sociaux et économiques.",
+            "Les responsabilités incluent la sécurité publique, la protection de l'environnement, et le respect des normes techniques et éthiques."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"conflict_of_interest",
+         "patterns":[
+            "Comment gérer un conflit d'intérêts en ingénierie ?",
+            "Que faire en cas de conflit d'intérêts ?",
+            "Conflit d'intérêts dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est essentiel de déclarer tout conflit d'intérêts et de prendre des décisions impartiales pour protéger l'intérêt public.",
+            "La transparence et l'honnêteté sont cruciales pour résoudre les conflits d'intérêts de manière éthique."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"sustainability",
+         "patterns":[
+            "Quel est le rôle de l'ingénieur dans le développement durable ?",
+            "Comment les ingénieurs contribuent-ils à la durabilité ?",
+            "Ingénierie et développement durable"
+         ],
+         "responses":[
+            "Les ingénieurs jouent un rôle clé en concevant des technologies et des infrastructures qui minimisent l'impact environnemental et favorisent la durabilité.",
+            "Ils doivent intégrer des pratiques écologiques dans leurs projets pour assurer un avenir durable."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"professional_conduct",
+         "patterns":[
+            "Quelles sont les règles de conduite professionnelle pour un ingénieur ?",
+            "Comment un ingénieur doit-il se comporter ?",
+            "Conduite professionnelle en ingénierie"
+         ],
+         "responses":[
+            "Un ingénieur doit respecter les normes techniques, être honnête, transparent et toujours agir dans l'intérêt public.",
+            "La conduite professionnelle inclut l'intégrité, la compétence et le respect des lois et règlements."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ethical_dilemma",
+         "patterns":[
+            "Que faire face à un dilemme éthique en ingénierie ?",
+            "Comment résoudre un dilemme éthique ?",
+            "Dilemme éthique dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est important de consulter les codes de déontologie, de discuter avec des collègues et de privilégier l'intérêt public dans la prise de décision.",
+            "En cas de doute, il faut se référer aux principes éthiques fondamentaux et chercher des conseils auprès d'experts."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"environmental_impact",
+         "patterns":[
+            "Comment les ingénieurs peuvent-ils réduire l'impact environnemental ?",
+            "Quelles pratiques pour minimiser l'impact environnemental ?",
+            "Ingénierie et environnement"
+         ],
+         "responses":[
+            "Les ingénieurs peuvent adopter des méthodes de conception écologiques, utiliser des matériaux durables et promouvoir les énergies renouvelables.",
+            "La réduction des déchets, l'efficacité énergétique et l'innovation verte sont des clés pour minimiser l'impact environnemental."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"public_safety",
+         "patterns":[
+            "Pourquoi la sécurité publique est-elle importante en ingénierie ?",
+            "Quel est le rôle de l'ingénieur dans la sécurité publique ?",
+            "Sécurité publique et ingénierie"
+         ],
+         "responses":[
+            "La sécurité publique est une priorité absolue pour les ingénieurs, car leurs décisions peuvent avoir un impact direct sur la vie des gens.",
+            "Les ingénieurs doivent s'assurer que leurs conceptions et constructions respectent les normes de sécurité pour protéger les utilisateurs."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"innovation_ethics",
+         "patterns":[
+            "Comment concilier innovation et éthique en ingénierie ?",
+            "Innovation et éthique dans l'ingénierie",
+            "Éthique de l'innovation"
+         ],
+         "responses":[
+            "L'innovation doit toujours être guidée par des principes éthiques, en tenant compte des impacts sociaux, environnementaux et économiques.",
+            "Les ingénieurs doivent innover de manière responsable, en veillant à ce que les nouvelles technologies profitent à la société sans causer de préjudice."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"code_of_ethics",
+         "patterns":[
+            "Qu'est-ce qu'un code de déontologie en ingénierie ?",
+            "Code de déontologie des ingénieurs",
+            "Quelles sont les règles du code de déontologie ?"
+         ],
+         "responses":[
+            "Un code de déontologie est un ensemble de règles qui guide les ingénieurs dans leur pratique professionnelle, en mettant l'accent sur l'intégrité, la responsabilité et le respect.",
+            "Il définit les normes éthiques que les ingénieurs doivent suivre pour assurer la confiance du public et la qualité de leur travail."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"whistleblowing",
+         "patterns":[
+            "Que faire si je vois une pratique contraire à l'éthique ?",
+            "Comment signaler une mauvaise pratique en ingénierie ?",
+            "Whistleblowing en ingénierie"
+         ],
+         "responses":[
+            "Il est important de signaler toute pratique contraire à l'éthique aux autorités compétentes ou à un supérieur hiérarchique, tout en protégeant votre anonymat si nécessaire.",
+            "Le whistleblowing est un acte courageux qui protège l'intérêt public et maintient les standards éthiques de la profession."
+         ],
+         "context":[
+            ""
+         ]
+      }
+   ,
+      {
+         "tag":"greeting",
+         "patterns":[
+            "Bonjour",
+            "Salut",
+            "Coucou",
+            "Hello",
+            "Bonjour, comment ça va ?"
+         ],
+         "responses":[
+            "Bonjour ! Comment puis-je vous aider aujourd'hui ?",
+            "Salut ! Que puis-je faire pour vous ?",
+            "Coucou ! En quoi puis-je vous assister ?"
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"goodbye",
+         "patterns":[
+            "Au revoir",
+            "À plus tard",
+            "Bye",
+            "Ciao",
+            "Je m'en vais"
+         ],
+         "responses":[
+            "Au revoir ! À bientôt.",
+            "À plus tard ! N'hésitez pas à revenir si vous avez des questions.",
+            "Bye ! Passez une excellente journée."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"thanks",
+         "patterns":[
+            "Merci",
+            "Merci beaucoup",
+            "Je vous remercie",
+            "Super, merci !"
+         ],
+         "responses":[
+            "Je vous en prie !",
+            "Avec plaisir !",
+            "Pas de problème, heureux de vous aider."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ethics_definition",
+         "patterns":[
+            "Qu'est-ce que l'éthique de l'ingénieur ?",
+            "Définis l'éthique de l'ingénieur",
+            "C'est quoi l'éthique en ingénierie ?"
+         ],
+         "responses":[
+            "L'éthique de l'ingénieur concerne les principes moraux et les responsabilités que les ingénieurs doivent respecter dans leur pratique professionnelle.",
+            "C'est un ensemble de règles et de valeurs qui guident les ingénieurs pour agir de manière responsable et respectueuse envers la société et l'environnement."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"responsibility",
+         "patterns":[
+            "Quelles sont les responsabilités d'un ingénieur ?",
+            "Quels sont les devoirs d'un ingénieur ?",
+            "Que doit faire un ingénieur ?"
+         ],
+         "responses":[
+            "Un ingénieur doit concevoir des solutions sûres, durables et respectueuses de l'environnement, tout en tenant compte des impacts sociaux et économiques.",
+            "Les responsabilités incluent la sécurité publique, la protection de l'environnement, et le respect des normes techniques et éthiques."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"conflict_of_interest",
+         "patterns":[
+            "Comment gérer un conflit d'intérêts en ingénierie ?",
+            "Que faire en cas de conflit d'intérêts ?",
+            "Conflit d'intérêts dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est essentiel de déclarer tout conflit d'intérêts et de prendre des décisions impartiales pour protéger l'intérêt public.",
+            "La transparence et l'honnêteté sont cruciales pour résoudre les conflits d'intérêts de manière éthique."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"sustainability",
+         "patterns":[
+            "Quel est le rôle de l'ingénieur dans le développement durable ?",
+            "Comment les ingénieurs contribuent-ils à la durabilité ?",
+            "Ingénierie et développement durable"
+         ],
+         "responses":[
+            "Les ingénieurs jouent un rôle clé en concevant des technologies et des infrastructures qui minimisent l'impact environnemental et favorisent la durabilité.",
+            "Ils doivent intégrer des pratiques écologiques dans leurs projets pour assurer un avenir durable."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"professional_conduct",
+         "patterns":[
+            "Quelles sont les règles de conduite professionnelle pour un ingénieur ?",
+            "Comment un ingénieur doit-il se comporter ?",
+            "Conduite professionnelle en ingénierie"
+         ],
+         "responses":[
+            "Un ingénieur doit respecter les normes techniques, être honnête, transparent et toujours agir dans l'intérêt public.",
+            "La conduite professionnelle inclut l'intégrité, la compétence et le respect des lois et règlements."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"ethical_dilemma",
+         "patterns":[
+            "Que faire face à un dilemme éthique en ingénierie ?",
+            "Comment résoudre un dilemme éthique ?",
+            "Dilemme éthique dans l'ingénierie"
+         ],
+         "responses":[
+            "Il est important de consulter les codes de déontologie, de discuter avec des collègues et de privilégier l'intérêt public dans la prise de décision.",
+            "En cas de doute, il faut se référer aux principes éthiques fondamentaux et chercher des conseils auprès d'experts."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"environmental_impact",
+         "patterns":[
+            "Comment les ingénieurs peuvent-ils réduire l'impact environnemental ?",
+            "Quelles pratiques pour minimiser l'impact environnemental ?",
+            "Ingénierie et environnement"
+         ],
+         "responses":[
+            "Les ingénieurs peuvent adopter des méthodes de conception écologiques, utiliser des matériaux durables et promouvoir les énergies renouvelables.",
+            "La réduction des déchets, l'efficacité énergétique et l'innovation verte sont des clés pour minimiser l'impact environnemental."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"public_safety",
+         "patterns":[
+            "Pourquoi la sécurité publique est-elle importante en ingénierie ?",
+            "Quel est le rôle de l'ingénieur dans la sécurité publique ?",
+            "Sécurité publique et ingénierie"
+         ],
+         "responses":[
+            "La sécurité publique est une priorité absolue pour les ingénieurs, car leurs décisions peuvent avoir un impact direct sur la vie des gens.",
+            "Les ingénieurs doivent s'assurer que leurs conceptions et constructions respectent les normes de sécurité pour protéger les utilisateurs."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"innovation_ethics",
+         "patterns":[
+            "Comment concilier innovation et éthique en ingénierie ?",
+            "Innovation et éthique dans l'ingénierie",
+            "Éthique de l'innovation"
+         ],
+         "responses":[
+            "L'innovation doit toujours être guidée par des principes éthiques, en tenant compte des impacts sociaux, environnementaux et économiques.",
+            "Les ingénieurs doivent innover de manière responsable, en veillant à ce que les nouvelles technologies profitent à la société sans causer de préjudice."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"code_of_ethics",
+         "patterns":[
+            "Qu'est-ce qu'un code de déontologie en ingénierie ?",
+            "Code de déontologie des ingénieurs",
+            "Quelles sont les règles du code de déontologie ?"
+         ],
+         "responses":[
+            "Un code de déontologie est un ensemble de règles qui guide les ingénieurs dans leur pratique professionnelle, en mettant l'accent sur l'intégrité, la responsabilité et le respect.",
+            "Il définit les normes éthiques que les ingénieurs doivent suivre pour assurer la confiance du public et la qualité de leur travail."
+         ],
+         "context":[
+            ""
+         ]
+      },
+      {
+         "tag":"whistleblowing",
+         "patterns":[
+            "Que faire si je vois une pratique contraire à l'éthique ?",
+            "Comment signaler une mauvaise pratique en ingénierie ?",
+            "Whistleblowing en ingénierie"
+         ],
+         "responses":[
+            "Il est important de signaler toute pratique contraire à l'éthique aux autorités compétentes ou à un supérieur hiérarchique, tout en protégeant votre anonymat si nécessaire.",
+            "Le whistleblowing est un acte courageux qui protège l'intérêt public et maintient les standards éthiques de la profession."
+         ],
+         "context":[
+            ""
+         ]
+      },{
+         "tag":"engineering_ethics_uk",
+         "patterns":[
+            "Comment l'éthique des ingénieurs est-elle réglementée au Royaume-Uni ?",
+            "Quels sont les principes éthiques en ingénierie au Royaume-Uni ?"
+         ],
+         "responses":[
+            "Au Royaume-Uni, l'éthique des ingénieurs est encadrée par l'Engineering Council et les institutions professionnelles comme la Royal Academy of Engineering.",
+            "Les ingénieurs britanniques doivent respecter le code de conduite qui inclut des principes d'honnêteté, d'intégrité et de responsabilité sociale."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"engineering_ethics_china",
+         "patterns":[
+            "Quelle est la réglementation de l'éthique des ingénieurs en Chine ?",
+            "Quels sont les principes de l'éthique des ingénieurs en Chine ?"
+         ],
+         "responses":[
+            "En Chine, l'éthique des ingénieurs est régie par des organismes gouvernementaux et des associations professionnelles qui mettent l'accent sur la sécurité industrielle et la responsabilité sociétale.",
+            "Les ingénieurs doivent respecter les réglementations en matière d'innovation technologique et de développement durable imposées par le gouvernement chinois."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"engineering_ethics_brazil",
+         "patterns":[
+            "Comment l'éthique des ingénieurs est-elle appliquée au Brésil ?",
+            "Quelle est l'approche brésilienne en matière d'éthique de l'ingénieur ?"
+         ],
+         "responses":[
+            "Au Brésil, les ingénieurs sont encadrés par le Conseil Fédéral d'Ingénierie et d'Agronomie (CONFEA) et doivent suivre des principes éthiques stricts.",
+            "L'accent est mis sur la transparence, la sécurité et le développement durable dans les projets d'ingénierie."
+         ],
+         "context":[""]
+      }
+,
+      {
+         "tag":"greeting",
+         "patterns":[
+            "Bonjour",
+            "Salut",
+            "Coucou",
+            "Hello",
+            "Bonjour, comment ça va ?"
+         ],
+         "responses":[
+            "Bonjour ! Comment puis-je vous aider concernant le Code des Devoirs et de l'Éthique de l'Ingénieur ?",
+            "Salut ! Des questions sur l'éthique professionnelle des ingénieurs ?",
+            "Coucou ! Je suis là pour vous guider sur les obligations des ingénieurs."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"code_overview",
+         "patterns":[
+            "Quels sont les principes clés du code de déontologie ?",
+            "Résumez le code des devoirs de l'ingénieur",
+            "Quelles sont les grandes lignes de ce document ?"
+         ],
+         "responses":[
+            "Le code repose sur l'intégrité, la compétence, le respect des lois, la protection de l'environnement et la priorité à l'intérêt public. Il couvre les relations professionnelles, la confidentialité et la responsabilité sociale."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"engineer_oath",
+         "patterns":[
+            "Quel est le serment de l'ingénieur tunisien ?",
+            "Que dit le serment professionnel ?",
+            "Quelles promesses fait un ingénieur ?"
+         ],
+         "responses":[
+            "L'ingénieur jure d'exercer avec intégrité, de respecter les lois, de protéger les secrets professionnels, de suivre l'évolution technologique et de servir l'intérêt général et l'environnement."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"professional_integrity",
+         "patterns":[
+            "Comment un ingénieur doit-il agir envers lui-même ?",
+            "Quelles sont les règles de conduite personnelle ?",
+            "Parlez-moi de l'intégrité professionnelle"
+         ],
+         "responses":[
+            "Un ingénieur doit :\n- Éviter l'auto-promotion excessive.\n- Refuser la corruption et les conflits d'intérêts.\n- Mettre à jour ses compétences.\n- Ne pas participer à des actes frauduleux."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"client_relations",
+         "patterns":[
+            "Comment traiter un client ?",
+            "Quelles règles avec les clients ?",
+            "Devoirs envers les demandeurs de services"
+         ],
+         "responses":[
+            "L'ingénieur doit :\n- Agir en agent fidèle et transparent.\n- Éviter les conflits d'intérêts.\n- Respecter la confidentialité des échanges.\n- Fournir un travail de qualité dans son domaine d'expertise."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"colleague_relations",
+         "patterns":[
+            "Comment collaborer avec d'autres ingénieurs ?",
+            "Règles avec les collègues",
+            "Que faire en cas de concurrence déloyale ?"
+         ],
+         "responses":[
+            "Il faut :\n- Respecter les droits des pairs.\n- Éviter de remplacer un collègue sans autorisation.\n- Partager les connaissances.\n- Ne pas diffamer ou critiquer hors cadre professionnel."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"environmental_duty",
+         "patterns":[
+            "Quelles obligations environnementales ?",
+            "Comment protéger l'environnement ?",
+            "Rôle dans le développement durable"
+         ],
+         "responses":[
+            "L'ingénieur doit :\n- Privilégier la sécurité et la durabilité.\n- Éviter les projets nuisibles à l'environnement.\n- Innover pour réduire les impacts écologiques.\n- Respecter les normes de sécurité publique."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"legal_compliance",
+         "patterns":[
+            "Que dit le code sur les lois ?",
+            "Comment respecter les réglementations ?",
+            "Sanctions pour non-respect des lois ?"
+         ],
+         "responses":[
+            "L'ingénieur doit :\n- Se conformer strictement aux lois en vigueur.\n- Signaliser les irrégularités.\n- Refuser tout projet illégal ou contraire à l'éthique."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"confidentiality",
+         "patterns":[
+            "Quelles règles de confidentialité ?",
+            "Comment gérer les secrets professionnels ?",
+            "Peut-on divulguer des données d'entreprise ?"
+         ],
+         "responses":[
+            "L'ingénieur doit :\n- Protéger les informations confidentielles de l'employeur.\n- Ne les révéler qu'en cas d'obligation légale.\n- Éviter l'utilisation abusive des données."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"conflict_priority",
+         "patterns":[
+            "Que faire en cas de conflit entre valeurs ?",
+            "Hiérarchie des principes éthiques",
+            "Priorités en cas de dilemme"
+         ],
+         "responses":[
+            "L'ordre des priorités est :\n1. Droits de l'homme.\n2. Sécurité et environnement.\n3. Intérêt général avant les intérêts privés."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"whistleblowing",
+         "patterns":[
+            "Comment signaler une malversation ?",
+            "Que faire face à de la corruption ?",
+            "Processus de whistleblowing"
+         ],
+         "responses":[
+            "Il faut :\n- Informer l'Ordre des Ingénieurs ou les autorités compétentes.\n- Garantir l'anonymat si nécessaire.\n- Fournir des preuves tangibles."
+         ],
+         "context":[""]
+      },
+      {
+         "tag":"ethics_violation_consequences",
+         "patterns":[
+            "Risques en cas de non-respect du code ?",
+            "Sanctions pour manquement éthique ?",
+            "Conséquences d'une violation"
+         ],
+         "responses":[
+            "Les sanctions peuvent inclure :\n- Avertissements officiels.\n- Suspension temporaire ou permanente de la licence.\n- Poursuites judiciaires pour corruption ou négligence grave."
+         ],
+         "context":[""]
+      }
+   ,
+      {
+         "tag": "ethics_preamble",
+         "patterns": [
+            "Qu'est-ce que la charte éthique de l'ingénieur ?",
+            "Quelles sont les bases de l'éthique de l'ingénieur ?"
+         ],
+         "responses": [
+            "Cette charte définit les devoirs et l'éthique de l'ingénieur conformément aux lois et règlements en vigueur en Tunisie, notamment le décret n° 12-1982 et la loi n° 58-1982.",
+            "Elle établit les règles de conduite professionnelle entre ingénieurs et avec les tiers, afin d’exercer la profession dans des conditions optimales et d’accomplir leurs devoirs avec excellence."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "engineer_oath",
+         "patterns": [
+            "Quel est le serment de l'ingénieur tunisien ?",
+            "L'ingénieur doit-il prêter serment avant d'exercer ?"
+         ],
+         "responses": [
+            "Avant d’exercer, l’ingénieur prête serment devant le Conseil de l’Ordre : 'Je suis fier d’appartenir à la profession d’ingénieur. Je jure par Dieu Tout-Puissant d’exercer ma profession avec intégrité, impartialité et dévouement à la patrie.'"
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "self_conduct",
+         "patterns": [
+            "Quelles sont les obligations éthiques de l'ingénieur envers lui-même ?",
+            "Comment un ingénieur doit-il agir dans son travail personnel ?"
+         ],
+         "responses": [
+            "L’ingénieur doit agir avec honneur, intégrité et impartialité. Il doit actualiser ses compétences et éviter l’auto-promotion excessive nuisant à la profession.",
+            "L’ingénieur doit refuser toute participation à des actes frauduleux et éviter tout conflit d’intérêts."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "work_ethics",
+         "patterns": [
+            "Comment un ingénieur doit-il se comporter au travail ?",
+            "Quelles sont les obligations éthiques liées au travail d'un ingénieur ?"
+         ],
+         "responses": [
+            "L’ingénieur doit travailler avec responsabilité et expertise, bâtir sa réputation sur la compétence, et refuser tout travail techniquement non sécurisé.",
+            "Il doit rédiger des rapports objectifs, donner un avis public uniquement sur des bases factuelles et résister aux pressions externes."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "colleagues_relations",
+         "patterns": [
+            "Comment un ingénieur doit-il interagir avec ses collègues ?",
+            "Quelles sont les règles de respect entre ingénieurs ?"
+         ],
+         "responses": [
+            "L’ingénieur doit respecter les droits matériels et moraux de ses pairs, éviter la concurrence déloyale et partager les connaissances pour promouvoir le développement professionnel.",
+            "Il doit respecter les opinions techniques des autres et encourager la collaboration."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "employer_relations",
+         "patterns": [
+            "Quelles sont les obligations d'un ingénieur envers son employeur ?",
+            "Comment un ingénieur doit-il protéger son entreprise ?"
+         ],
+         "responses": [
+            "L’ingénieur doit respecter le règlement interne, protéger la confidentialité des données et préserver la réputation de son institution.",
+            "Il doit éviter l’exploitation des ressources à des fins personnelles et contribuer au développement de l’entreprise."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "client_ethics",
+         "patterns": [
+            "Comment un ingénieur doit-il traiter ses clients ?",
+            "Quelles sont les obligations éthiques envers un client ?"
+         ],
+         "responses": [
+            "L’ingénieur doit agir en agent fidèle, éviter les conflits d’intérêts et respecter la confidentialité des informations sauf en cas d'obligation légale.",
+            "Il doit assurer un travail de qualité et donner des conseils professionnels objectifs."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "law_compliance",
+         "patterns": [
+            "L’ingénieur doit-il respecter les lois ?",
+            "Quelle est l’importance des lois pour un ingénieur ?"
+         ],
+         "responses": [
+            "L’ingénieur doit se conformer aux lois en vigueur et être objectif dans l’élaboration de normes techniques.",
+            "Il doit privilégier l’intérêt général sur les intérêts privés et respecter la hiérarchie des valeurs, mettant en priorité les droits de l’homme, la sécurité et l’environnement."
+         ],
+         "context": [""]
+      }
+,
+      {
+         "tag": "ethics_preamble",
+         "patterns": [
+            "Qu'est-ce que la charte éthique de l'ingénieur ?",
+            "Quelles sont les bases de l'éthique de l'ingénieur ?"
+         ],
+         "responses": [
+            "Cette charte définit les devoirs et l'éthique de l'ingénieur conformément aux lois et règlements en vigueur en Tunisie, notamment le décret n° 12-1982 et la loi n° 58-1982.",
+            "Elle établit les règles de conduite professionnelle entre ingénieurs et avec les tiers, afin d’exercer la profession dans des conditions optimales et d’accomplir leurs devoirs avec excellence."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "engineer_oath",
+         "patterns": [
+            "Quel est le serment de l'ingénieur tunisien ?",
+            "L'ingénieur doit-il prêter serment avant d'exercer ?"
+         ],
+         "responses": [
+            "Avant d’exercer, l’ingénieur prête serment devant le Conseil de l’Ordre : 'Je suis fier d’appartenir à la profession d’ingénieur. Je jure par Dieu Tout-Puissant d’exercer ma profession avec intégrité, impartialité et dévouement à la patrie.'"
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "self_conduct",
+         "patterns": [
+            "Quelles sont les obligations éthiques de l'ingénieur envers lui-même ?",
+            "Comment un ingénieur doit-il agir dans son travail personnel ?"
+         ],
+         "responses": [
+            "L’ingénieur doit agir avec honneur, intégrité et impartialité. Il doit actualiser ses compétences et éviter l’auto-promotion excessive nuisant à la profession.",
+            "L’ingénieur doit refuser toute participation à des actes frauduleux et éviter tout conflit d’intérêts."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "work_ethics",
+         "patterns": [
+            "Comment un ingénieur doit-il se comporter au travail ?",
+            "Quelles sont les obligations éthiques liées au travail d'un ingénieur ?"
+         ],
+         "responses": [
+            "L’ingénieur doit travailler avec responsabilité et expertise, bâtir sa réputation sur la compétence, et refuser tout travail techniquement non sécurisé.",
+            "Il doit rédiger des rapports objectifs, donner un avis public uniquement sur des bases factuelles et résister aux pressions externes."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "colleagues_relations",
+         "patterns": [
+            "Comment un ingénieur doit-il interagir avec ses collègues ?",
+            "Quelles sont les règles de respect entre ingénieurs ?"
+         ],
+         "responses": [
+            "L’ingénieur doit respecter les droits matériels et moraux de ses pairs, éviter la concurrence déloyale et partager les connaissances pour promouvoir le développement professionnel.",
+            "Il doit respecter les opinions techniques des autres et encourager la collaboration."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "employer_relations",
+         "patterns": [
+            "Quelles sont les obligations d'un ingénieur envers son employeur ?",
+            "Comment un ingénieur doit-il protéger son entreprise ?"
+         ],
+         "responses": [
+            "L’ingénieur doit respecter le règlement interne, protéger la confidentialité des données et préserver la réputation de son institution.",
+            "Il doit éviter l’exploitation des ressources à des fins personnelles et contribuer au développement de l’entreprise."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "public_safety",
+         "patterns": [
+            "Quel est le rôle de l'ingénieur dans la sécurité publique ?",
+            "Pourquoi la sécurité publique est-elle importante en ingénierie ?"
+         ],
+         "responses": [
+            "L’ingénieur doit concevoir et superviser des projets garantissant la sécurité des utilisateurs et minimisant les risques de défaillance.",
+            "Il est responsable de s'assurer que toutes les normes de sécurité et réglementations sont respectées dans ses conceptions et mises en œuvre."
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "environmental_ethics",
+         "patterns": [
+            "Comment un ingénieur peut-il réduire l'impact environnemental ?",
+            "Quelles sont les responsabilités écologiques d'un ingénieur ?"
+         ],
+         "responses": [
+            "L’ingénieur doit privilégier les solutions durables, utiliser des matériaux écologiques et optimiser l'efficacité énergétique de ses projets.",
+            "Il doit s'assurer que ses conceptions respectent les principes du développement durable et minimisent la pollution et les déchets." 
+         ],
+         "context": [""]
+      },
+      {
+         "tag": "law_compliance",
+         "patterns": [
+            "L’ingénieur doit-il respecter les lois ?",
+            "Quelle est l’importance des lois pour un ingénieur ?"
+         ],
+         "responses": [
+            "L’ingénieur doit se conformer aux lois en vigueur et être objectif dans l’élaboration de normes techniques.",
+            "Il doit privilégier l’intérêt général sur les intérêts privés et respecter la hiérarchie des valeurs, mettant en priorité les droits de l’homme, la sécurité et l’environnement."
+         ],
+         "context": [""]
+      }
+   ]
+}
+
