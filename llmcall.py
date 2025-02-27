@@ -1,11 +1,8 @@
 from transformers import AutoTokenizer
 from together import Together
-import os
-from dotenv import load_dotenv
-load_dotenv()
-
+import streamlit as st
 # Clé API pour Together AI
-TOGETHER_API_KEY = os.getenv("API_KEY")
+TOGETHER_API_KEY =  st.secrets["API_KEY"]
 client = Together(api_key=TOGETHER_API_KEY)
 
 # Fonction pour lire un fichier texte

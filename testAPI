@@ -1,9 +1,7 @@
-import os
-from dotenv import load_dotenv
-load_dotenv()
 
+import streamlit as st
 from together import Together
-TOGETHER_API_KEY = os.getenv("API_KEY")  # Replace with your actual API key
+TOGETHER_API_KEY =  st.secrets["API_KEY"]  # Replace with your actual API key
 
 client = Together(api_key=TOGETHER_API_KEY)
 
