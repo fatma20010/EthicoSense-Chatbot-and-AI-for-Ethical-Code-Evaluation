@@ -12,9 +12,8 @@ from sentence_transformers import util
 from together import Together
 from fpdf import FPDF  # For generating PDFs
 import os
-
-
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Configuration
 CODES = {
