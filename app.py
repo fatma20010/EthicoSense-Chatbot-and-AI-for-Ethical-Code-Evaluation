@@ -14,19 +14,16 @@ from fpdf import FPDF  # For generating PDFs
 import os
 
 # Download required NLTK data files
-# Near the top of your file, before importing nltk
-import os
-os.environ['NLTK_DATA'] = '/tmp/nltk_data'
+import streamlit as st
+import nltk
 
-# Then when you download the NLTK data
+# Download required NLTK data files
+# Download required NLTK data files
 st.write("Downloading NLTK data files...")
-try:
-    nltk.download('punkt', download_dir='/tmp/nltk_data')
-    nltk.download('wordnet', download_dir='/tmp/nltk_data')
-    nltk.download('omw-1.4', download_dir='/tmp/nltk_data')  # This is needed for newer versions of NLTK
-    st.write("NLTK data files downloaded successfully!")
-except Exception as e:
-    st.error(f"Error downloading NLTK data: {e}")
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw-1.4')  # Add this for Open Multilingual WordNet
+st.write("NLTK data files downloaded successfully!")
 # Configuration
 CODES = {
     "Tunisia": "TN.txt",
