@@ -1,7 +1,7 @@
 streamlit>=1.32.0  # Upgrade to a version that supports pillow>=11.1.0
 torch==2.3.0
 numpy==1.26.4
-nltk==3.8.1
+nltk>=3.8.1
 tensorflow==2.18.0
 transformers==4.49.0
 sentence-transformers==2.7.0
