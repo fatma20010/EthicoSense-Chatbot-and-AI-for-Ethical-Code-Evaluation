@@ -27,7 +27,7 @@ CODES = {
 }
 MODEL_NAME = "dangvantuan/sentence-camembert-large"
 LLM_MODEL = "meta-llama/Meta-Llama-3.1-8B-Instruct-Turbo-128K"
-TOGETHER_API_KEY = os.getenv("API_KEY")
+TOGETHER_API_KEY = st.secrets["API_KEY"]
 
 # Load Models
 @st.cache_resource
